@@ -1,17 +1,24 @@
-﻿# Weather_app
-This is a simple, clean, and fully responsive weather application built using HTML, CSS, and JavaScript. It fetches real-time weather data from WeatherAPI.com based on the city name entered by the user.
+# 🌤️ Weather App
 
-The app displays current temperature, weather condition, humidity, and wind speed. It also includes a matching weather icon.
+A simple and responsive weather app that shows real-time weather data for any city using the OpenWeatherMap API.
 
-Tech Stack
-HTML5 – For structure
-CSS3 – For styling and responsiveness
-JavaScript (ES6+) – For API integration and interactivity
-WeatherAPI.com – For live weather data
-Features
-Search weather by city name
-Displays real-time temperature, condition, humidity, and wind speed
-Shows a relevant weather icon
-Fully responsive design (works on desktop and mobile)
-API key is not hidden for deployment purpose don't use it for yourself
-To run this app locally, create a config.js with your WeatherAPI key
+## 🔍 Features
+
+- 🌍 Search for weather by city name
+- 🌡️ Shows temperature, humidity, wind speed, and weather condition
+- 📸 Dynamic weather icons based on current conditions
+- 📱 Responsive design for mobile and desktop
+- ⚠️ Error message for invalid or misspelled cities
+
+## 🛠️ Technologies Used
+
+- HTML5 & CSS3
+- JavaScript (Vanilla)
+- OpenWeatherMap API
+- Fetch API for HTTP requests
+
+## 🚀 Getting Started
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/weather-app.git
