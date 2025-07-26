@@ -1,6 +1,8 @@
 # 🌤️ Weather App
 
-A simple and responsive weather app that shows real-time weather data for any city using the OpenWeatherMap API.
+This is a simple, clean, and fully responsive weather application built using HTML, CSS, and JavaScript. It fetches real-time weather data from WeatherAPI.com based on the city name entered by the user.
+
+The app displays current temperature, weather condition, humidity, and wind speed. It also includes a matching weather icon.
 
 ## 🔍 Features
 
@@ -12,13 +14,8 @@ A simple and responsive weather app that shows real-time weather data for any ci
 
 ## 🛠️ Technologies Used
 
-- HTML5 & CSS3
-- JavaScript (Vanilla)
-- OpenWeatherMap API
-- Fetch API for HTTP requests
+- HTML5 – For structure
+- CSS3 – For styling and responsiveness
+- JavaScript (ES6+) – For API integration and interactivity
+- WeatherAPI.com – For live weather data
 
-## 🚀 Getting Started
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
